@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos temporales de macOS
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Entornos y archivos locales
+.env
+.env.*
+!.env.example
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Builds
+dist/
+build/
+
+# Cobertura y pruebas
+.coverage
+htmlcov/
+
+# Bases de datos locales
+*.sqlite
+*.sqlite3
+
+# Archivos del sistema
+Thumbs.db
